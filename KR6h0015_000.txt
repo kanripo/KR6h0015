@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘大集地藏十輪經
+#+DATE: 2015-08-30 20:06:35.721194
+#+PROPERTY: JUAN 0
